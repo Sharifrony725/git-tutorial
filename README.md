@@ -1,4 +1,4 @@
 # Git Tutorial
-Hello programmers , I am using Git & GIthub .This is reallyb awesome.
+Hello programmers , I am using Git & GIthub .This is really awesome.
 
-Like our [Facebook](https://www.facebook.com/TechTalk-With-Sharif-858060931235152)page
+Please Like our [Facebook](https://www.facebook.com/TechTalk-With-Sharif-858060931235152) Page.
